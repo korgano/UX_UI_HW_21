@@ -1,0 +1,21 @@
+.navbar {
+    color: cornsilk !important;
+}
+
+.mainContent {
+    width: 90vw;
+
+}
+
+.card.mainBody {
+    margin-bottom: 1em;
+}
+
+.card-group {
+    margin-bottom: 1em;
+}
+
+footer {
+    padding: 0.5em;
+    background-color: cornflowerblue;
+}
