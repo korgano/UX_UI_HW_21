@@ -1,0 +1,73 @@
+.navbar {
+    color: cornsilk !important;
+}
+
+body {
+    background-color: honeydew !important;
+}
+
+.mainContent {
+    width: 90vw;
+
+}
+
+.text-muted {
+    color: #393E41 !important;
+}
+
+#heroHome {
+    background-image: url(../images/homepage/hobby-collage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#heroHowPrint {
+    background-image: url(../images/how-to/3dPrinter-Minkus2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#heroTipsPrint {
+    background-image: url(../images/tips-tricks/3dPrinter-Kadir_Celep2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#heroHome, #heroHowPrint, #heroTipsPrint {
+    color: sandybrown;
+}
+
+#heroBG {
+    background-color: rgba(185, 185, 185, 0.25);
+    border: solid 5px whitesmoke;
+}
+
+#heroText {
+    text-align: center;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+#yt-embed {
+    margin-bottom: 0.5em;
+}
+
+.card.mainBody {
+    margin-bottom: 1em;
+}
+
+.card-body {
+    background-color: lightblue;
+}
+
+.card.card-body {
+    background-color: whitesmoke;
+}
+
+.card-group {
+    margin-bottom: 1em;
+}
+
+footer {
+    padding: 0.5em;
+    background-color: cornflowerblue;
+}
