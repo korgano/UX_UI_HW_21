@@ -2,6 +2,10 @@
     color: cornsilk !important;
 }
 
+.nav-link, .navbar-brand {
+    font-weight: bold;
+}
+
 body {
     background-color: honeydew !important;
 }
