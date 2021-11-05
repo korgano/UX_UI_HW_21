@@ -6,6 +6,9 @@
     font-weight: bold;
 }
 
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: white;
+
 body {
     background-color: honeydew !important;
 }
