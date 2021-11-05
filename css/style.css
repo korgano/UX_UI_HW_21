@@ -1,3 +1,7 @@
+body {
+    background-color: honeydew !important;
+}
+
 .navbar {
     color: cornsilk !important;
 }
@@ -8,14 +12,10 @@
 
 .navbar-dark .navbar-nav .nav-link:hover {
     color: white !important;
-
-body {
-    background-color: honeydew !important;
 }
 
 .mainContent {
     width: 90vw;
-
 }
 
 .text-muted {
