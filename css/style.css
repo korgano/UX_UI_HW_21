@@ -23,7 +23,7 @@ body {
 }
 
 #heroHome {
-    background-image: url(https://korgano.github.io/UX_UI_HW_21//UX_UI_HW_21/images/homepage/hobby-collage.jpg);
+    background-image: url(https://korgano.github.io/UX_UI_HW_21/images/homepage/hobby-collage.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -59,7 +59,7 @@ body {
 }
 
 .card.mainBody {
-    margin-bottom: 1em;
+    margin-bottom: 2em !important;
 }
 
 .card-body {
