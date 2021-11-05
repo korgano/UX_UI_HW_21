@@ -29,13 +29,13 @@ body {
 }
 
 #heroHowPrint {
-    background-image: url(../images/how-to/3dPrinter-Minkus2.jpg);
+    background-image: url(https://korgano.github.io/UX_UI_HW_21/images/how-to/3dPrinter-Minkus2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #heroTipsPrint {
-    background-image: url(../images/tips-tricks/3dPrinter-Kadir_Celep2.jpg);
+    background-image: url(https://korgano.github.io/UX_UI_HW_21/images/tips-tricks/3dPrinter-Kadir_Celep2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
