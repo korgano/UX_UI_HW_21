@@ -23,7 +23,7 @@ body {
 }
 
 #heroHome {
-    background-image: url(.../images/homepage/hobby-collage.jpg);
+    background-image: url(./../images/homepage/hobby-collage.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
